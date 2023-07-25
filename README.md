@@ -1,3 +1,3 @@
 # Vidhyavkm
 I am a developer. 
-[![trophy](https://github-profile-trophy.vercel.app/?vidhyavkm=ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?vidhyavkm)](https://github.com/vidhyavkm/github-profile-trophy)
